@@ -1,5 +1,5 @@
-# hello**world**ebac :earth_americas:
+# Desafio do curso dio de html/css :earth_americas:
 
-> :milky_way: Repositório publicado para upar o desafio EBAC.
+> :milky_way: Repositório publicado para upar o desafio Dio.
 
 ![Esse é um print da minha pagina!](/image/EXEMPLO.MP4 "Desafio Dio Instagram")
