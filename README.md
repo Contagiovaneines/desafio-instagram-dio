@@ -2,4 +2,4 @@
 
 > :milky_way: Repositório publicado para upar o desafio Dio.
 
-![Esse é um print da minha pagina!](/image/EXEMPLO.MP4 "Desafio Dio Instagram")
+![Esse é um print da minha pagina!](/image/EXEMPLO.gif "Desafio Dio Instagram")
